@@ -1,0 +1,9 @@
+/* COMPANY */
+Sekmen.Dev
+/* TEAM */
+Hüseyin Sekmenoğlu
+Amine Sekmenoğlu
+/* SITE */
+Name: Portfolio
+Language: Türkçe
+Web: https://amine.sekmen.dev/
